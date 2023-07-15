@@ -15,9 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/jamesbond93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jamesbond93" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajat-jain3108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-jain3108" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rajat31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rajat31" height="30" width="40" /></a>
+
+<a href = "https://linkedin.com/in/rajat-jain3108" target="blank">![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href = "https://codepen.io/jamesbond93" target="blank">![codepen](https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white)</a>
+<a href = "https://hashnode.com/@rajat31" target="blank">![hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
