@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-jain007&label=Profile%20views&color=0e75b6&style=flat" alt="rajat-jain007" /> </p>
 
 
-- 🌱 I’m currently learning **Full Stack,ReactJs,Express,MongoDb**
+- 🌱 I’m currently learning **ReactJs,Express,MongoDb**
 
 - 📝 I regularly write articles on [https://digitcrab.hashnode.dev/](https://digitcrab.hashnode.dev/)
 
